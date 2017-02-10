@@ -38,6 +38,6 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 1. source – https://www.goodreads.com , parser – goodreads.py, topic – Book
 2. n_reviews – 459390, mean label = 3.81, median = 4
 3. average review length = 1595.26, average number of words = 287.11
-4. top-10 – 
+4. top-10 – the, and, to, a, I, of, is, in, that, was
 5. <3 = 0.36%, 4-10 = 2.27%, 11-50 = 16.21%, >51 = 81.14%
 6. number of duplicates = 1467
