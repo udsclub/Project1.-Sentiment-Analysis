@@ -17,3 +17,11 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 4. top-10 – the, I, to, and, it, a, is, app, this, of
 5. <3 = 4.75%, 4-10 = 30.25%, 11-50 = 52.36%, >51 = 12.64%
 6. number of duplicates = 1539296, 9.55%
+
+### RottenTomatoes DataSet
+1. source – https://www.rottentomatoes.com , parser – rt_scraper.py, topic – Movies
+2. n_reviews – 102610, mean label = 0.63, median = 1
+3. average review length = 113.24, average number of words = 19.59
+4. top-10 – the, of, a, and, to, is, in, that, as, it
+5. <3 = 2.8%, 4-10 = 20.76%, 11-50 = 76.43%, >51 = 0.01%
+6. number of duplicates = 307
