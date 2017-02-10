@@ -33,3 +33,11 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 4. top-10 – the, and, was,, to, a, in, I, The, of, for
 4. <4 = 0.5%, 4-10 = 6.97%, 11-50 = 54.28%, >51 = 38.26%
 5. number of duplicates = 76
+
+### Goodreads DataSet
+1. source – https://www.goodreads.com , parser – goodreads.py, topic – Book
+2. n_reviews – 459390, mean label = 3.81, median = 4
+3. average review length = 1595.26, average number of words = 287.11
+4. top-10 – 
+5. <3 = 0.36%, 4-10 = 2.27%, 11-50 = 16.21%, >51 = 81.14%
+6. number of duplicates = 1467
