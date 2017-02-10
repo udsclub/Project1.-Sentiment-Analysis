@@ -41,3 +41,21 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 4. top-10 – the, and, to, a, I, of, is, in, that, was
 5. <3 = 0.36%, 4-10 = 2.27%, 11-50 = 16.21%, >51 = 81.14%
 6. number of duplicates = 1467
+
+### Prom Dataset (1)
+0. language – Russian
+1. source – https://prom.ua , parser – inner .sql query, topic – Opinions about companies/sellers
+2. n_reviews – 201744, mean label = 3.0, min = 1, max = 5
+3. average review length = 177.6, average number of words = 26.04
+4. top-10 – что, товар, заказ, все, очень, спасибо, мне, так, как, товара
+5. word count – <4 = 1.60%, 4-10 = 20.86%, 11-50 = 58.79%, >51 = 14.61%
+6. number of duplicates = 0
+
+### Prom Dataset (2)
+0. language – Ukrainian
+1. source – https://prom.ua , parser – inner .sql query, topic – Opinions about companies/sellers
+2. n_reviews – 17456, mean label = 3.0, min = 1, max = 5
+3. average review length = 176.35, average number of words = 25.91
+4. top-10 – товар, замовлення, все, дуже, рекомендую, але, дякую, так, мені, товару
+5. word count – <4 = 1.46%, 4-10 = 20.91%, 11-50 = 58.82%, >51 = 14.36%
+6. number of duplicates = 0
