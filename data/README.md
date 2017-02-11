@@ -60,6 +60,14 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 5. word count – <4 = 1.46%, 4-10 = 20.91%, 11-50 = 58.82%, >51 = 14.36%
 6. number of duplicates = 0
 
+### Lovehoney Dataset
+1. source - lovehoney.co.uk, lovehoney.py topic - sex-goods
+2. n_reviews - 158089, mean label - 4.11, median - 4.0
+3. average review length = 804.11, average number of words = 151.57
+4. top-10 - the, and, a, to, I, it, is, of, for, this
+5. word count – 3 = 0.005%, 4-10 = 0.05%, 11-50 = 4.66%, >51 = 95.28%
+6. number of duplicates = 104
+
 ### TripAdvisor.com UK/GB Restaurants Dataset
 0. language – en_GB
 1. source – https://www.tripadvisor.com/ , parser – inner c# code, topic – Restaurants, Food
