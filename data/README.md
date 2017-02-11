@@ -59,3 +59,11 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 4. top-10 – товар, замовлення, все, дуже, рекомендую, але, дякую, так, мені, товару
 5. word count – <4 = 1.46%, 4-10 = 20.91%, 11-50 = 58.82%, >51 = 14.36%
 6. number of duplicates = 0
+
+### Yelp Academic Dataset
+1. source – https://www.yelp.com , topic – Local businesses
+2. n_reviews – 4153150, mean label = 3.72, median = 4, min = 1, max = 5
+3. average review length = 631.23, average number of words = 120.23
+4. top-10 – the, and, '', I, a, to, was, of, is, for
+5. <3 = 0.020%, 4-10 = 0.38%, 11-50 = 27.49%, >51 = 72.09%
+6. number of duplicates = 2342
