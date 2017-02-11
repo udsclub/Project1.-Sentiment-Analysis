@@ -59,3 +59,13 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 4. top-10 – товар, замовлення, все, дуже, рекомендую, але, дякую, так, мені, товару
 5. word count – <4 = 1.46%, 4-10 = 20.91%, 11-50 = 58.82%, >51 = 14.36%
 6. number of duplicates = 0
+
+### TripAdvisor.com UK/GB Restaurants Dataset
+0. language – en_GB
+1. source – https://www.tripadvisor.com/ , parser – inner c# code, topic – Restaurants, Food
+2. n_reviews – 1000000, mean label = 4.09, median = 5, min = 1, max = 5
+3. average review length = 502.10, average number of words = 93.92
+4. top-10 – the, and, a, to, was, '', of, for, I, .
+5. word count – <4 = 0.005%, 4-10 = 0.02%, 11-50 = 32.15%, >51 = 67.83%
+6. number of duplicates = 165
+7. total n_reviews in other batch files - 10635553
