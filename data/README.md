@@ -44,7 +44,7 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 
 ### Prom Dataset (1)
 0. language – Russian
-1. source – https://prom.ua , parser – inner .sql query, topic – Opinions about companies/sellers
+1. source – https://prom.ua , parser – coming soon..., topic – Opinions about companies/sellers
 2. n_reviews – 201744, mean label = 3.0, min = 1, max = 5
 3. average review length = 177.6, average number of words = 26.04
 4. top-10 – что, товар, заказ, все, очень, спасибо, мне, так, как, товара
@@ -53,7 +53,7 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 
 ### Prom Dataset (2)
 0. language – Ukrainian
-1. source – https://prom.ua , parser – inner .sql query, topic – Opinions about companies/sellers
+1. source – https://prom.ua , parser – coming soon..., topic – Opinions about companies/sellers
 2. n_reviews – 17456, mean label = 3.0, min = 1, max = 5
 3. average review length = 176.35, average number of words = 25.91
 4. top-10 – товар, замовлення, все, дуже, рекомендую, але, дякую, так, мені, товару
