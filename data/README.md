@@ -86,3 +86,11 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 6. number of duplicates = 165
 7. total n_reviews in other batch files - 10635553
 
+### Amazon Books Dataset
+0. language - English
+1. source - amazon.com, topic - books. ranking varies from 1 to 5 stars
+2. number of reviews ~63k, mean ranking - 5, median - 4.543
+3. average review length - 40.6 words and 221.1 symbols
+4. top 10 words - the, and, to, I, a, of, is, in, book, this
+5. word count: 1-2 words - 9%; 3-9 words - 20%; 10-49 words - 50%; 50+ words - 21%
+6. number of duplicates - 5427
