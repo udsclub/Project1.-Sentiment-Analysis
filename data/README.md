@@ -28,11 +28,11 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 
 ### Expedia Dataset
 1. source – http://www.expedia.com , parser – expedia.py, topic – Hotels, apartments
-2. n_reviews – 2 002 873, n_hotels - 11 866, mean label = 3.84, median = 4.0, min = 1, max = 5
-3. average review length = 281.78, average number of words = 52.01
+2. n_reviews = 2 731 949, n_hotels= 19 639, mean label = 3.86, median = 4.0, min = 1, max = 5
+3. average review length = 286.46, average number of words = 52.79
 4. top-10 – the, and, was, to, a, i, in, we, of, for
-5. <4 = 0.5%, 4-10 = 7.17%, 11-50 = 56.28%, >51 = 36.07%
-6. number of duplicates = 5 031
+5. <4 = 0.45%, 4-10 = 7.07%, 11-50 = 55.78%, >51 = 36.68%
+6. number of duplicates = 7 316
 
 ### Goodreads DataSet
 1. source – https://www.goodreads.com , parser – goodreads.py, topic – Book
