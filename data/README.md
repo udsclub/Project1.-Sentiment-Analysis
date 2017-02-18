@@ -28,11 +28,11 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 
 ### Expedia Dataset
 1. source – http://www.expedia.com , parser – expedia.py, topic – Hotels, apartments
-2. n_reviews – 86378, mean label = 3.82, median = 4.0, min = 1, max = 5
-3. average review length = 293.51, average number of words = 54.03
-4. top-10 – the, and, was,, to, a, in, I, The, of, for
-4. <4 = 0.5%, 4-10 = 6.97%, 11-50 = 54.28%, >51 = 38.26%
-5. number of duplicates = 76
+2. n_reviews = 2 731 949, n_hotels= 19 639, mean label = 3.86, median = 4.0, min = 1, max = 5
+3. average review length = 286.46, average number of words = 52.79
+4. top-10 – the, and, was, to, a, i, in, we, of, for
+5. <4 = 0.45%, 4-10 = 7.07%, 11-50 = 55.78%, >51 = 36.68%
+6. number of duplicates = 7 316
 
 ### Goodreads DataSet
 1. source – https://www.goodreads.com , parser – goodreads.py, topic – Book
@@ -44,7 +44,7 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 
 ### Prom Dataset (1)
 0. language – Russian
-1. source – https://prom.ua , parser – inner .sql query, topic – Opinions about companies/sellers
+1. source – https://prom.ua , parser – coming soon..., topic – Opinions about companies/sellers
 2. n_reviews – 201744, mean label = 3.0, min = 1, max = 5
 3. average review length = 177.6, average number of words = 26.04
 4. top-10 – что, товар, заказ, все, очень, спасибо, мне, так, как, товара
@@ -53,7 +53,7 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 
 ### Prom Dataset (2)
 0. language – Ukrainian
-1. source – https://prom.ua , parser – inner .sql query, topic – Opinions about companies/sellers
+1. source – https://prom.ua , parser – coming soon..., topic – Opinions about companies/sellers
 2. n_reviews – 17456, mean label = 3.0, min = 1, max = 5
 3. average review length = 176.35, average number of words = 25.91
 4. top-10 – товар, замовлення, все, дуже, рекомендую, але, дякую, так, мені, товару
@@ -67,3 +67,30 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 4. top-10 – the, and, '', I, a, to, was, of, is, for
 5. <3 = 0.020%, 4-10 = 0.38%, 11-50 = 27.49%, >51 = 72.09%
 6. number of duplicates = 2342
+
+### Lovehoney Dataset
+1. source - lovehoney.co.uk, lovehoney.py topic - sex-goods
+2. n_reviews - 158089, mean label - 4.11, median - 4.0
+3. average review length = 804.11, average number of words = 151.57
+4. top-10 - the, and, a, to, I, it, is, of, for, this
+5. word count – 3 = 0.005%, 4-10 = 0.05%, 11-50 = 4.66%, >51 = 95.28%
+6. number of duplicates = 104
+
+### TripAdvisor.com UK/GB Restaurants Dataset
+0. language – en_GB
+1. source – https://www.tripadvisor.com/ , parser – inner c# code, topic – Restaurants, Food
+2. n_reviews – 1000000, mean label = 4.09, median = 5, min = 1, max = 5
+3. average review length = 502.10, average number of words = 93.92
+4. top-10 – the, and, a, to, was, '', of, for, I, .
+5. word count – <4 = 0.005%, 4-10 = 0.02%, 11-50 = 32.15%, >51 = 67.83%
+6. number of duplicates = 165
+7. total n_reviews in other batch files - 10635553
+
+### Amazon Books Dataset
+0. language - English
+1. source - amazon.com, topic - books. ranking varies from 1 to 5 stars
+2. number of reviews ~63k, mean ranking - 5, median - 4.543
+3. average review length - 40.6 words and 221.1 symbols
+4. top 10 words - the, and, to, I, a, of, is, in, book, this
+5. word count: 1-2 words - 9%; 3-9 words - 20%; 10-49 words - 50%; 50+ words - 21%
+6. number of duplicates - 5427
