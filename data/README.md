@@ -1,4 +1,4 @@
-# Datasets Summary
+﻿# Datasets Summary
 
 All datasets with their description – https://docs.google.com/spreadsheets/d/12WNfuql2WWcB7ufCvZy12u5bd3zhuJlVHdIu2p1ysQQ/edit
 
@@ -94,3 +94,12 @@ All datasets with their description – https://docs.google.com/spreadsheets/d/1
 4. top 10 words - the, and, to, I, a, of, is, in, book, this
 5. word count: 1-2 words - 9%; 3-9 words - 20%; 10-49 words - 50%; 50+ words - 21%
 6. number of duplicates - 5427
+
+### Airbnb USA Rooms/Flats Dataset
+0. language - English
+1. source - airbnb.com, topic - rooms/flats
+2. number of reviews ~204k, mean ranking - 0.37, median - 0.33, max - 5, min-0
+3. average review length - 52.1 words and 221.1 symbols
+4. top 10 words - and, the, was, to, a, is, I, in, very, we
+5. word count: <4 - 2%; 3-11 - 7%; 10-49 - 50.1%; 50> - 38.5%
+6. number of duplicates - 0
